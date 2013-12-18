@@ -10,9 +10,10 @@ Initial setup
 * passwd: raspberry
 
 sudo raspi-congig -> resize SD
+
 reboot
-cd RetroPie-Setup	
-sudo ./retropie_setup.sh
+
+cd RetroPie-Setup	&& sudo ./retropie_setup.sh
 
 Artwork
 =======
